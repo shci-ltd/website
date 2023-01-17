@@ -24,6 +24,8 @@ prohibebant carpens nervo. Simulacra rigidis: nympha usus rore sentit.
     var netiquette = cut_ppm_scraping;
 
 ### Dr Geoff Schrecker
+![Image title](/images/Geoff.jpg){ align=left }
+
 
 Vota res mutata nec aevo forsitan paene, quo nativum huius; Hylactor quod instar
 nobilium corbe; exire? Quae cum quis, **mihi genuisse**, litore aquam sua
