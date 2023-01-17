@@ -2,26 +2,6 @@
 
 ## Who are we?
 
-Lorem markdownum erat Aeaciden Eleis Thermodontiaca ignis. Ille et telum
-lanificae aurum, **meum** potuit rebus corpore ferro, alta. Corpus deos trita
-seu animus tanta demittite Iuppiter in arcus? Umbras quisquis sordidus,
-temptabimus, hostesque prisco luxit, probat cursu non in victus ipse hanc
-prohibebant carpens nervo. Simulacra rigidis: nympha usus rore sentit.
-
-    if (download_plug - copyrightDot + directoryUrl) {
-        ospf -= hdmi_dvd;
-    }
-    if (graphic_hypermedia) {
-        fiber_client_hard -= bookmarkLogic(p, 3, market_kbps_null) / image;
-        push_uri_of(address(accessSeoDisk, 3), bannerFileBit + eTopology, 4 +
-                2);
-        repositoryCpcRestore = udp + ddr_compiler_ldap;
-    } else {
-        dualCoreP(memoryTwainSaas);
-    }
-    nicRestore.safe(configuration(frozen_streaming, coldMode - 2),
-            monitor_arp_ics - -2);
-    var netiquette = cut_ppm_scraping;
 
 ### Dr Geoff Schrecker
 <figure markdown>
