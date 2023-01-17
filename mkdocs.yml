@@ -1,6 +1,6 @@
 site_name: SHCI Ltd (Under Development)
 theme:
-  name: readthedocs
+  name: material
 nav:
   - Home: index.md
   - About: about.md
