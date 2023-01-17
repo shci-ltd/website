@@ -1,3 +1,6 @@
 site_name: SHCI Ltd (Under Development)
 theme:
   name: material
+nav:
+  - Home: index.md
+  - About: about.md
