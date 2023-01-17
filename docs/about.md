@@ -26,7 +26,7 @@ prohibebant carpens nervo. Simulacra rigidis: nympha usus rore sentit.
 ### Dr Geoff Schrecker
 <figure markdown>
   ![Image title](/images/Geoff.jpg){ width="300" }
-  <figcaption>Image caption</figcaption>
+  <figcaption>Geoff Schrecker</figcaption>
 </figure>
 
 
