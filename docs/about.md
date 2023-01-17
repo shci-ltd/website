@@ -1,6 +1,6 @@
 # **About Schrecker Hulley Clinical Informatics Ltd**
 
-## Certe nolet fugientis magni est
+## Who are we?
 
 Lorem markdownum erat Aeaciden Eleis Thermodontiaca ignis. Ille et telum
 lanificae aurum, **meum** potuit rebus corpore ferro, alta. Corpus deos trita
