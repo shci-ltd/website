@@ -1,4 +1,4 @@
-# O vero retractat alieni
+# **About Schrecker Hulley Clinical Informatics Ltd**
 
 ## Certe nolet fugientis magni est
 
