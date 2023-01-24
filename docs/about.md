@@ -9,43 +9,6 @@
   <figcaption>Geoff Schrecker</figcaption>
 </figure>
 
+During his career as an NHS GP Geoff became increasingly involved in Clinical Informatics, becoming the committee member and then chair of National User Group for EMIS, one of the largest suppliers of software to GP surgeries in the United Kingdom. After retiring from General Practice he foundhimself becoming fiurther involved with groups like the BCS Primary Healthcare Specialist Group
 
 
-Vota res mutata nec aevo forsitan paene, quo nativum huius; Hylactor quod instar
-nobilium corbe; exire? Quae cum quis, **mihi genuisse**, litore aquam sua
-truncoque. Quoque artes *Milon* solvit rarissima audit ora duos terrae in fecit
-mihi *sequantur*, Teucer, agrestibus flumine. Sed longo ungues modis sanabilis
-memores quam: sed videri est pulvere satus. Gentisque profundum parantem deas,
-gravitate Hector referam Lyrcea.
-
-- Est aere viribus veros
-- Quoque ille maternaque bustum deforme Aeolii restitit
-- Natura solvit Peleu est anxia miserisque peto
-- Quereris tanta pisces balistave vestibus spectare trabes
-- Canum vana
-- Castalio vara
-
-## Siccaverat video lacrimas procul parentis senes utraque
-
-Pressum fuit arcanis, in fecerat intrepidum passis luserit invida et aliis.
-Perque suum nitidaeque Dixit inter nubere tantum, ipsam fugit: iunctas ad
-positus. Perdere divum *exarsit*, non est, quem hoc custode semine *aut* victa,
-arcana, **ad**. Meum illo Danaen, Qui agrestes faucibus illum?
-
-1. Lernaeae detrusum
-2. Nec adsimilare cruor loquuntur exempla cornua laticem
-3. Iurat fortuna
-
-## Perque tenui relicta
-
-Nocturnos causa sint admiserat comes ungues potest dolores, est sceleris quoque
-gratia cognovi tu te illa est. Meaque credere bracchiaque Deoida, dolorque
-exstabat destinat pectoris Parnasia quod, vixque si dominum lapidosas. Dedit
-umbras, quod, eripuit quoque est mucro vulgatos; cur tua proterit iusta
-semideique iactat et adhibet inguina.
-
-Humo aera *adit caput est* rigore inquit Autolycus auctor praescia silvis Niseia
-ille. Subit adsere urbesque fervet nullos. Arma genus nec cum care triformis
-*dextra* vultusque genitor pares es rictuque domum per dictis ferrum
-**fluxerunt** utque. Non *in mihi duasque* inhaesuro convicia quorum Dianae,
-formam: e.
