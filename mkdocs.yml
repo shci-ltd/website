@@ -4,7 +4,7 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - MkDocs: mkdocs.md
+  - MkDocs Info: mkdocs.md
 
 markdown_extensions:
   - attr_list

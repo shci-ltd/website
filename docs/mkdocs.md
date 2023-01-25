@@ -15,3 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+[Getting started tutorial](https://www.mkdocs.org/getting-started/)
+
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
