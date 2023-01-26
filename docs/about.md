@@ -14,4 +14,4 @@ Geoff is a GP Specialist member of [IGARD](https://digital.nhs.uk/about-nhs-digi
 
 ### Carol Hulley
 
-After training as a Nurse Carol went on to train and work as a midwife both in hospitals and in the community. She then completed a Diploma in Counselling and an MA in Public Health. She works with Geoff in both training and clinical safety work.
+After training as a Nurse Carol went on to train and work as a midwife both in hospitals and in the community. She then completed a Diploma in Counselling and an MA in Public Health at Sheffield Hallam University. She works with Geoff in both training and clinical safety work.
