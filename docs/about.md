@@ -9,7 +9,8 @@
   <figcaption>Geoff Schrecker</figcaption>
 </figure>
 
-During his career as an NHS GP Geoff became increasingly involved in Clinical Informatics, becoming the committee member and then chair of National User Group for EMIS, one of the largest suppliers of software to GP surgeries in the United Kingdom. After retiring from General Practice he foundhimself becoming fiurther involved with groups like the BCS Primary Healthcare Specialist Group
+During his career as an NHS GP Geoff became increasingly involved in Clinical Informatics, becoming the committee member and then chair of National User Group for EMIS, one of the largest suppliers of software to GP surgeries in the United Kingdom. After retiring from General Practice he foundhimself becoming fiurther involved with groups like the BCS Primary Healthcare Specialist Group.
+Geoff is a GP Specialist member of [IGARD](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/independent-group-advising-on-the-release-of-data)
 
 ### Carol Hulley
 
