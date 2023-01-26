@@ -20,3 +20,4 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material 
       - run: mkdocs gh-deploy --force
+      - run: echo 'shci.co.uk' > ./build/CNAME && gh-pages -d build"

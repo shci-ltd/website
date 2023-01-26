@@ -5,7 +5,7 @@
 
 ### Dr Geoff Schrecker
 <figure markdown>
-  ![Image title](/images/Geoff.jpg){ width="300" }
+  ![Image title](/images/Geoff.jpg){ width="150" }
   <figcaption>Geoff Schrecker</figcaption>
 </figure>
 
