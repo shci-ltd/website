@@ -1,9 +1,8 @@
 # **About Schrecker Hulley Clinical Informatics Ltd**
 
+![Image title](/images/Banner.jpg)
+
 ## Who are we?
-
-![Image title](/images/Banner.jpg){width="100%"}
-
 
 ### Dr Geoff Schrecker
  ![Image title](/images/Geoff.jpg){ width="150" align=left }
