@@ -8,3 +8,5 @@ Schrecker Hulley Clinical Informatics provides consultancy in clinical informati
 We are building this test website to explore the benefits of [MkDocs](https://www.mkdocs.org) and [GitHub pages](https://pages.github.com) for the publication of documentation.
 
 ##Just some added text
+
+Test
